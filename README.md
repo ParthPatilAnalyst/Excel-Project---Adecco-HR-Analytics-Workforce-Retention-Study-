@@ -126,5 +126,4 @@ The analysis produced clear and actionable outcomes:
 This project demonstrates how HR analytics can transform employee data into meaningful insights. By combining attrition metrics, satisfaction analysis, and performance mapping, organizations can move from reactive HR management to proactive workforce planning.
 
 
-* Add **SQL, Excel, Power BI, or Tableau sections**
-* Review your English line-by-line and explain simply
+![image alt](https://github.com/ParthPatilAnalyst/Excel-Project---Adecco-HR-Analytics-Workforce-Retention-Study-/blob/1a3fb7e06c54cf7d0a949b435712efb17fe36610/Screenshot%202026-03-04%20212827.png)
