@@ -275,9 +275,9 @@ Based on this analysis, the three highest-ROI interventions for HR leadership ar
 **PARTH PATIL**  
  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/parth-s-patil/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/ParthPatilAnalyst)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:parthpatil2611@email.com)
 
 ---
 
